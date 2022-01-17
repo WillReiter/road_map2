@@ -1,0 +1,1660 @@
+INFO:root:train trajgru begin...
+INFO:root:train trajgru begin...
+INFO:root:train trajgru begin...
+INFO:root:train trajgru begin...
+INFO:root:train trajgru begin...
+INFO:root:train trajgru begin...
+INFO:root:train trajgru begin...
+INFO:root:train trajgru begin...
+INFO:root:train trajgru begin...
+INFO:root:train trajgru begin...
+INFO:root:train trajgru begin...
+INFO:root:train trajgru begin...
+INFO:root:train trajgru begin...
+INFO:root:train trajgru begin...
+INFO:root:train trajgru begin...
+INFO:root:total_num:6464821
+INFO:root:train trajgru begin...
+INFO:root:torch.Size([15, 4, 1, 600, 600])
+INFO:root:<class 'torch.Tensor'>
+INFO:root:torch.Size([5, 4, 1, 600, 600])
+INFO:root:torch.Size([10, 4, 1, 600, 600])
+INFO:root:(4, 15)
+INFO:root:train trajgru begin...
+INFO:root:train trajgru begin...
+INFO:root:total_num:6464821
+INFO:root:train trajgru begin...
+INFO:root:torch.Size([15, 4, 1, 600, 600])
+INFO:root:<class 'torch.Tensor'>
+INFO:root:torch.Size([5, 4, 1, 600, 600])
+INFO:root:torch.Size([10, 4, 1, 600, 600])
+INFO:root:(4, 15)
+INFO:root:train trajgru begin...
+INFO:root:total_num:6464821
+INFO:root:train trajgru begin...
+INFO:root:torch.Size([15, 4, 1, 600, 600])
+INFO:root:<class 'torch.Tensor'>
+INFO:root:torch.Size([5, 4, 1, 600, 600])
+INFO:root:torch.Size([10, 4, 1, 600, 600])
+INFO:root:(4, 15)
+INFO:root:train trajgru begin...
+INFO:root:total_num:6464821
+INFO:root:train trajgru begin...
+INFO:root:total_num:6464821
+INFO:root:train trajgru begin...
+INFO:root:torch.Size([15, 4, 1, 600, 600])
+INFO:root:<class 'torch.Tensor'>
+INFO:root:torch.Size([5, 4, 1, 600, 600])
+INFO:root:torch.Size([10, 4, 1, 600, 600])
+INFO:root:(4, 15)
+INFO:root:Saving evaluation result to /mnt/train_model/iter_5
+INFO:root:Saving readable txt of Evaluation to /mnt/train_model/iter_5/eval_all.txt
+INFO:root:load data:0.21088290214538574	valid:0.8351850509643555
+INFO:root:Saving evaluation result to /mnt/train_model/iter_10
+INFO:root:Saving readable txt of Evaluation to /mnt/train_model/iter_10/eval_all.txt
+INFO:root:load data:0.22733259201049805	valid:0.847599983215332
+INFO:root:Saving evaluation result to /mnt/train_model/iter_15
+INFO:root:Saving readable txt of Evaluation to /mnt/train_model/iter_15/eval_all.txt
+INFO:root:load data:0.21745634078979492	valid:0.8337421417236328
+INFO:root:Saving evaluation result to /mnt/train_model/iter_20
+INFO:root:Saving readable txt of Evaluation to /mnt/train_model/iter_20/eval_all.txt
+INFO:root:load data:0.22487354278564453	valid:0.9918487071990967
+INFO:root:Saving evaluation result to /mnt/train_model/iter_25
+INFO:root:Saving readable txt of Evaluation to /mnt/train_model/iter_25/eval_all.txt
+INFO:root:load data:0.21375155448913574	valid:0.8311550617218018
+INFO:root:Saving evaluation result to /mnt/train_model/iter_30
+INFO:root:Saving readable txt of Evaluation to /mnt/train_model/iter_30/eval_all.txt
+INFO:root:load data:0.21666216850280762	valid:0.8223636150360107
+INFO:root:Saving evaluation result to /mnt/train_model/iter_35
+INFO:root:Saving readable txt of Evaluation to /mnt/train_model/iter_35/eval_all.txt
+INFO:root:load data:0.20735478401184082	valid:0.8391790390014648
+INFO:root:Saving evaluation result to /mnt/train_model/iter_40
+INFO:root:Saving readable txt of Evaluation to /mnt/train_model/iter_40/eval_all.txt
+INFO:root:load data:0.21880578994750977	valid:0.8319821357727051
+INFO:root:Saving evaluation result to /mnt/train_model/iter_45
+INFO:root:Saving readable txt of Evaluation to /mnt/train_model/iter_45/eval_all.txt
+INFO:root:load data:0.2177133560180664	valid:0.8253374099731445
+INFO:root:Saving evaluation result to /mnt/train_model/iter_50
+INFO:root:Saving readable txt of Evaluation to /mnt/train_model/iter_50/eval_all.txt
+INFO:root:load data:0.21230816841125488	valid:0.8374626636505127
+INFO:root:Saving evaluation result to /mnt/train_model/iter_55
+INFO:root:Saving readable txt of Evaluation to /mnt/train_model/iter_55/eval_all.txt
+INFO:root:load data:0.22573471069335938	valid:0.850095272064209
+INFO:root:Saving evaluation result to /mnt/train_model/iter_60
+INFO:root:Saving readable txt of Evaluation to /mnt/train_model/iter_60/eval_all.txt
+INFO:root:load data:0.22593212127685547	valid:0.835911750793457
+INFO:root:Saving evaluation result to /mnt/train_model/iter_65
+INFO:root:Saving readable txt of Evaluation to /mnt/train_model/iter_65/eval_all.txt
+INFO:root:load data:0.2242109775543213	valid:0.8415029048919678
+INFO:root:Saving evaluation result to /mnt/train_model/iter_70
+INFO:root:Saving readable txt of Evaluation to /mnt/train_model/iter_70/eval_all.txt
+INFO:root:load data:0.2102982997894287	valid:0.8683624267578125
+INFO:root:train trajgru begin...
+INFO:root:train trajgru begin...
+INFO:root:total_num:6464821
+INFO:root:train trajgru begin...
+INFO:root:torch.Size([15, 4, 1, 600, 600])
+INFO:root:<class 'torch.Tensor'>
+INFO:root:torch.Size([5, 4, 1, 600, 600])
+INFO:root:torch.Size([10, 4, 1, 600, 600])
+INFO:root:(4, 15)
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_5
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_5/eval_all.txt
+INFO:root:load data:0.204345703125	valid:0.8184833526611328
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_10
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_10/eval_all.txt
+INFO:root:load data:0.21810436248779297	valid:0.8309011459350586
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_15
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_15/eval_all.txt
+INFO:root:load data:0.21700763702392578	valid:0.81984543800354
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_20
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_20/eval_all.txt
+INFO:root:load data:0.2047593593597412	valid:0.8164210319519043
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_25
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_25/eval_all.txt
+INFO:root:load data:0.22307825088500977	valid:0.8142509460449219
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_30
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_30/eval_all.txt
+INFO:root:load data:0.2163243293762207	valid:0.8103630542755127
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_35
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_35/eval_all.txt
+INFO:root:load data:0.21190595626831055	valid:0.8132505416870117
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_40
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_40/eval_all.txt
+INFO:root:load data:0.21874189376831055	valid:0.8165044784545898
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_45
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_45/eval_all.txt
+INFO:root:load data:0.21272826194763184	valid:0.8088469505310059
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_50
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_50/eval_all.txt
+INFO:root:load data:0.2162942886352539	valid:0.8161008358001709
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_55
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_55/eval_all.txt
+INFO:root:load data:0.21538758277893066	valid:0.8143935203552246
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_60
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_60/eval_all.txt
+INFO:root:load data:0.21219658851623535	valid:0.8111646175384521
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_65
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_65/eval_all.txt
+INFO:root:load data:0.21337890625	valid:0.8213109970092773
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_70
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_70/eval_all.txt
+INFO:root:load data:0.21393942832946777	valid:0.813605546951294
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_75
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_75/eval_all.txt
+INFO:root:load data:0.21670818328857422	valid:0.8132848739624023
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_80
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_80/eval_all.txt
+INFO:root:load data:0.22653937339782715	valid:0.8118162155151367
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_85
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_85/eval_all.txt
+INFO:root:load data:0.20735549926757812	valid:0.8179202079772949
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_90
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_90/eval_all.txt
+INFO:root:load data:0.20667386054992676	valid:0.8284852504730225
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_95
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_95/eval_all.txt
+INFO:root:load data:0.21281862258911133	valid:0.8169398307800293
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_100
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_100/eval_all.txt
+INFO:root:load data:0.22014379501342773	valid:0.8155012130737305
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_105
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_105/eval_all.txt
+INFO:root:load data:0.20162224769592285	valid:0.8148384094238281
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_110
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_110/eval_all.txt
+INFO:root:load data:0.2198045253753662	valid:0.8199841976165771
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_115
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_115/eval_all.txt
+INFO:root:load data:0.2065732479095459	valid:0.8163411617279053
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_120
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_120/eval_all.txt
+INFO:root:load data:0.21529769897460938	valid:0.8188087940216064
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_125
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_125/eval_all.txt
+INFO:root:load data:0.2174994945526123	valid:0.8169705867767334
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_130
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_130/eval_all.txt
+INFO:root:load data:0.22436928749084473	valid:0.8140223026275635
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_135
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_135/eval_all.txt
+INFO:root:load data:0.22355961799621582	valid:0.8145122528076172
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_140
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_140/eval_all.txt
+INFO:root:load data:0.22306466102600098	valid:0.8108689785003662
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_145
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_145/eval_all.txt
+INFO:root:load data:0.21665668487548828	valid:0.8124551773071289
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_150
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_150/eval_all.txt
+INFO:root:load data:0.2178359031677246	valid:0.8138711452484131
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_155
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_155/eval_all.txt
+INFO:root:load data:0.20270299911499023	valid:0.8158378601074219
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_160
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_160/eval_all.txt
+INFO:root:load data:0.21655535697937012	valid:0.8108501434326172
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_165
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_165/eval_all.txt
+INFO:root:load data:0.21145057678222656	valid:0.8218071460723877
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_170
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_170/eval_all.txt
+INFO:root:load data:0.20534300804138184	valid:0.8117380142211914
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_175
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_175/eval_all.txt
+INFO:root:load data:0.22092986106872559	valid:0.815270185470581
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_180
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_180/eval_all.txt
+INFO:root:load data:0.2223038673400879	valid:0.8186430931091309
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_185
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_185/eval_all.txt
+INFO:root:load data:0.2131180763244629	valid:0.8145813941955566
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_190
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_190/eval_all.txt
+INFO:root:load data:0.21483516693115234	valid:0.818382978439331
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_195
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_195/eval_all.txt
+INFO:root:load data:0.21675562858581543	valid:0.8120372295379639
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_200
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_200/eval_all.txt
+INFO:root:load data:0.21285367012023926	valid:0.8262104988098145
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_205
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_205/eval_all.txt
+INFO:root:load data:0.20812654495239258	valid:0.8166980743408203
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_210
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_210/eval_all.txt
+INFO:root:load data:0.21553540229797363	valid:0.8175008296966553
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_215
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_215/eval_all.txt
+INFO:root:load data:0.21779537200927734	valid:0.8199639320373535
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_220
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_220/eval_all.txt
+INFO:root:load data:0.2123730182647705	valid:0.8194272518157959
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_225
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_225/eval_all.txt
+INFO:root:load data:0.2093830108642578	valid:0.8286356925964355
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_230
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_230/eval_all.txt
+INFO:root:load data:0.21024513244628906	valid:0.814544677734375
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_235
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_235/eval_all.txt
+INFO:root:load data:0.21982622146606445	valid:0.8086109161376953
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_240
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_240/eval_all.txt
+INFO:root:load data:0.21738147735595703	valid:0.8143508434295654
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_245
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_245/eval_all.txt
+INFO:root:load data:0.2159888744354248	valid:0.8280007839202881
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_250
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_250/eval_all.txt
+INFO:root:load data:0.21711039543151855	valid:0.8136799335479736
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_255
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_255/eval_all.txt
+INFO:root:load data:0.20320749282836914	valid:0.8146252632141113
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_260
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_260/eval_all.txt
+INFO:root:load data:0.21623802185058594	valid:0.815767765045166
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_265
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_265/eval_all.txt
+INFO:root:load data:0.21040916442871094	valid:0.8156871795654297
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_270
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_270/eval_all.txt
+INFO:root:load data:0.2021327018737793	valid:0.8195047378540039
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_275
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_275/eval_all.txt
+INFO:root:load data:0.21485328674316406	valid:0.817678689956665
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_280
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_280/eval_all.txt
+INFO:root:load data:0.20298337936401367	valid:0.8130366802215576
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_285
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_285/eval_all.txt
+INFO:root:load data:0.2147228717803955	valid:0.8161780834197998
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_290
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_290/eval_all.txt
+INFO:root:load data:0.20629286766052246	valid:0.8176329135894775
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_295
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_295/eval_all.txt
+INFO:root:load data:0.2098233699798584	valid:0.8153471946716309
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_300
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_300/eval_all.txt
+INFO:root:load data:0.20528650283813477	valid:0.8183879852294922
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_305
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_305/eval_all.txt
+INFO:root:load data:0.20612096786499023	valid:0.8184792995452881
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_310
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_310/eval_all.txt
+INFO:root:load data:0.22278189659118652	valid:0.8163368701934814
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_315
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_315/eval_all.txt
+INFO:root:load data:0.20791292190551758	valid:0.816138505935669
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_320
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_320/eval_all.txt
+INFO:root:load data:0.20775866508483887	valid:0.8161592483520508
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_325
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_325/eval_all.txt
+INFO:root:load data:0.21701788902282715	valid:0.8158555030822754
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_330
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_330/eval_all.txt
+INFO:root:load data:0.20897626876831055	valid:0.8214263916015625
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_335
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_335/eval_all.txt
+INFO:root:load data:0.20990800857543945	valid:0.8159584999084473
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_340
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_340/eval_all.txt
+INFO:root:load data:0.20743417739868164	valid:0.8212296962738037
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_345
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_345/eval_all.txt
+INFO:root:load data:0.21326470375061035	valid:0.8172168731689453
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_350
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_350/eval_all.txt
+INFO:root:load data:0.2155437469482422	valid:0.8190979957580566
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_355
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_355/eval_all.txt
+INFO:root:load data:0.21325325965881348	valid:0.8139975070953369
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_360
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_360/eval_all.txt
+INFO:root:load data:0.2113666534423828	valid:0.8159792423248291
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_365
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_365/eval_all.txt
+INFO:root:load data:0.20504140853881836	valid:0.823843240737915
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_370
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_370/eval_all.txt
+INFO:root:load data:0.21094846725463867	valid:0.8155765533447266
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_375
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_375/eval_all.txt
+INFO:root:load data:0.21435117721557617	valid:0.8171319961547852
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_380
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_380/eval_all.txt
+INFO:root:load data:0.21546077728271484	valid:0.8239567279815674
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_385
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_385/eval_all.txt
+INFO:root:load data:0.20617961883544922	valid:0.8172416687011719
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_390
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_390/eval_all.txt
+INFO:root:load data:0.20519089698791504	valid:0.8190903663635254
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_395
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_395/eval_all.txt
+INFO:root:load data:0.21446442604064941	valid:0.8216373920440674
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_400
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_400/eval_all.txt
+INFO:root:load data:0.20638442039489746	valid:0.8313186168670654
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_405
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_405/eval_all.txt
+INFO:root:load data:0.21371030807495117	valid:0.8179631233215332
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_410
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_410/eval_all.txt
+INFO:root:load data:0.20945239067077637	valid:0.8184642791748047
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_415
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_415/eval_all.txt
+INFO:root:load data:0.22157573699951172	valid:0.8134365081787109
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_420
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_420/eval_all.txt
+INFO:root:load data:0.20952725410461426	valid:0.8225929737091064
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_425
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_425/eval_all.txt
+INFO:root:load data:0.2118995189666748	valid:0.8213977813720703
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_430
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_430/eval_all.txt
+INFO:root:load data:0.2075047492980957	valid:0.8149313926696777
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_435
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_435/eval_all.txt
+INFO:root:load data:0.2218790054321289	valid:0.8219821453094482
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_440
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_440/eval_all.txt
+INFO:root:load data:0.2035825252532959	valid:0.8200538158416748
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_445
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_445/eval_all.txt
+INFO:root:load data:0.2118227481842041	valid:0.8207261562347412
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_450
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_450/eval_all.txt
+INFO:root:load data:0.20721769332885742	valid:0.8226425647735596
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_455
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_455/eval_all.txt
+INFO:root:load data:0.20954370498657227	valid:0.8206312656402588
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_460
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_460/eval_all.txt
+INFO:root:load data:0.2122209072113037	valid:0.8188786506652832
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_465
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_465/eval_all.txt
+INFO:root:load data:0.21384906768798828	valid:0.8264420032501221
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_470
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_470/eval_all.txt
+INFO:root:load data:0.20981931686401367	valid:0.8175199031829834
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_475
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_475/eval_all.txt
+INFO:root:load data:0.2019188404083252	valid:0.8156454563140869
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_480
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_480/eval_all.txt
+INFO:root:load data:0.2144927978515625	valid:0.8184468746185303
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_485
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_485/eval_all.txt
+INFO:root:load data:0.21393632888793945	valid:0.8211770057678223
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_490
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_490/eval_all.txt
+INFO:root:load data:0.21132445335388184	valid:0.8265805244445801
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_495
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_495/eval_all.txt
+INFO:root:load data:0.2157597541809082	valid:0.8224325180053711
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_500
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_500/eval_all.txt
+INFO:root:load data:0.21902990341186523	valid:0.8219406604766846
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_505
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_505/eval_all.txt
+INFO:root:load data:0.2103137969970703	valid:0.8172507286071777
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_510
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_510/eval_all.txt
+INFO:root:load data:0.2063899040222168	valid:0.818230152130127
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_515
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_515/eval_all.txt
+INFO:root:load data:0.2102375030517578	valid:0.8218677043914795
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_520
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_520/eval_all.txt
+INFO:root:load data:0.2127537727355957	valid:0.8255941867828369
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_525
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_525/eval_all.txt
+INFO:root:load data:0.21151185035705566	valid:0.8198487758636475
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_530
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_530/eval_all.txt
+INFO:root:load data:0.20727753639221191	valid:0.8177361488342285
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_535
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_535/eval_all.txt
+INFO:root:load data:0.2108604907989502	valid:0.8203999996185303
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_540
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_540/eval_all.txt
+INFO:root:load data:0.20742464065551758	valid:0.810941219329834
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_545
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_545/eval_all.txt
+INFO:root:load data:0.19981980323791504	valid:0.8186039924621582
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_550
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_550/eval_all.txt
+INFO:root:load data:0.22278380393981934	valid:0.8144669532775879
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_555
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_555/eval_all.txt
+INFO:root:load data:0.2223832607269287	valid:0.8885073661804199
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_560
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_560/eval_all.txt
+INFO:root:load data:0.20581507682800293	valid:0.8173763751983643
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_565
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_565/eval_all.txt
+INFO:root:load data:0.2669484615325928	valid:0.8303182125091553
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_570
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_570/eval_all.txt
+INFO:root:load data:0.21737122535705566	valid:0.8209433555603027
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_575
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_575/eval_all.txt
+INFO:root:load data:0.2114102840423584	valid:0.8201687335968018
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_580
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_580/eval_all.txt
+INFO:root:load data:0.219069242477417	valid:0.817699670791626
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_585
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_585/eval_all.txt
+INFO:root:load data:0.2119007110595703	valid:0.8175878524780273
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_590
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_590/eval_all.txt
+INFO:root:load data:0.2189791202545166	valid:0.8156905174255371
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_595
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_595/eval_all.txt
+INFO:root:load data:0.21220016479492188	valid:0.8178577423095703
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_600
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_600/eval_all.txt
+INFO:root:load data:0.21861004829406738	valid:0.8195555210113525
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_605
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_605/eval_all.txt
+INFO:root:load data:0.21831250190734863	valid:0.8157000541687012
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_610
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_610/eval_all.txt
+INFO:root:load data:0.22285771369934082	valid:0.8157334327697754
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_615
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_615/eval_all.txt
+INFO:root:load data:0.20417332649230957	valid:0.8202178478240967
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_620
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_620/eval_all.txt
+INFO:root:load data:0.2136240005493164	valid:0.8178539276123047
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_625
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_625/eval_all.txt
+INFO:root:load data:0.2133491039276123	valid:0.8232066631317139
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_630
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_630/eval_all.txt
+INFO:root:load data:0.21458196640014648	valid:0.8144404888153076
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_635
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_635/eval_all.txt
+INFO:root:load data:0.21363115310668945	valid:0.8210368156433105
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_640
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_640/eval_all.txt
+INFO:root:load data:0.21518278121948242	valid:0.8156318664550781
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_645
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_645/eval_all.txt
+INFO:root:load data:0.20041322708129883	valid:0.8182079792022705
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_650
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_650/eval_all.txt
+INFO:root:load data:0.21428823471069336	valid:0.8194358348846436
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_655
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_655/eval_all.txt
+INFO:root:load data:0.20810317993164062	valid:0.8340210914611816
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_660
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_660/eval_all.txt
+INFO:root:load data:0.22222590446472168	valid:0.819115400314331
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_665
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_665/eval_all.txt
+INFO:root:load data:0.2145535945892334	valid:0.8307778835296631
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_670
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_670/eval_all.txt
+INFO:root:load data:0.21619653701782227	valid:0.8203349113464355
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_675
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_675/eval_all.txt
+INFO:root:load data:0.21816587448120117	valid:0.8209328651428223
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_680
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_680/eval_all.txt
+INFO:root:load data:0.2139582633972168	valid:0.8209781646728516
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_685
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_685/eval_all.txt
+INFO:root:load data:0.21508479118347168	valid:0.815443754196167
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_690
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_690/eval_all.txt
+INFO:root:load data:0.21883440017700195	valid:0.8190481662750244
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_695
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_695/eval_all.txt
+INFO:root:load data:0.2148454189300537	valid:0.8167319297790527
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_700
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_700/eval_all.txt
+INFO:root:load data:0.21263456344604492	valid:0.8195629119873047
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_705
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_705/eval_all.txt
+INFO:root:load data:0.2199862003326416	valid:0.8162012100219727
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_710
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_710/eval_all.txt
+INFO:root:load data:0.2225635051727295	valid:0.8175506591796875
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_715
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_715/eval_all.txt
+INFO:root:load data:0.21273469924926758	valid:0.8221933841705322
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_720
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_720/eval_all.txt
+INFO:root:load data:0.2171928882598877	valid:0.8212292194366455
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_725
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_725/eval_all.txt
+INFO:root:load data:0.21123671531677246	valid:0.819462776184082
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_730
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_730/eval_all.txt
+INFO:root:load data:0.20811891555786133	valid:0.819434642791748
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_735
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_735/eval_all.txt
+INFO:root:load data:0.21356987953186035	valid:0.8174009323120117
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_740
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_740/eval_all.txt
+INFO:root:load data:0.20739221572875977	valid:0.8168220520019531
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_745
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_745/eval_all.txt
+INFO:root:load data:0.2098405361175537	valid:0.817237377166748
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_750
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_750/eval_all.txt
+INFO:root:load data:0.20443177223205566	valid:0.8231766223907471
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_755
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_755/eval_all.txt
+INFO:root:load data:0.21335649490356445	valid:0.8507986068725586
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_760
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_760/eval_all.txt
+INFO:root:load data:0.21329355239868164	valid:0.878831148147583
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_765
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_765/eval_all.txt
+INFO:root:load data:0.20945954322814941	valid:0.8796539306640625
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_770
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_770/eval_all.txt
+INFO:root:load data:0.22189593315124512	valid:0.8844184875488281
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_775
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_775/eval_all.txt
+INFO:root:load data:0.21213793754577637	valid:0.8917229175567627
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_780
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_780/eval_all.txt
+INFO:root:load data:0.2136228084564209	valid:0.8192822933197021
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_785
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_785/eval_all.txt
+INFO:root:load data:0.22306275367736816	valid:0.8538210391998291
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_790
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_790/eval_all.txt
+INFO:root:load data:0.2243649959564209	valid:0.8510715961456299
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_795
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_795/eval_all.txt
+INFO:root:load data:0.2138988971710205	valid:0.8664324283599854
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_800
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_800/eval_all.txt
+INFO:root:load data:0.21277332305908203	valid:0.8640527725219727
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_805
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_805/eval_all.txt
+INFO:root:load data:0.21839690208435059	valid:0.86448073387146
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_810
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_810/eval_all.txt
+INFO:root:load data:0.21300125122070312	valid:0.8614997863769531
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_815
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_815/eval_all.txt
+INFO:root:load data:0.21838068962097168	valid:0.8589487075805664
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_820
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_820/eval_all.txt
+INFO:root:load data:0.21332120895385742	valid:0.8576407432556152
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_825
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_825/eval_all.txt
+INFO:root:load data:0.20908570289611816	valid:0.8632674217224121
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_830
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_830/eval_all.txt
+INFO:root:load data:0.21460223197937012	valid:0.866591215133667
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_835
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_835/eval_all.txt
+INFO:root:load data:0.2065894603729248	valid:0.8665173053741455
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_840
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_840/eval_all.txt
+INFO:root:load data:0.22620940208435059	valid:0.8682613372802734
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_845
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_845/eval_all.txt
+INFO:root:load data:0.2078559398651123	valid:0.8518760204315186
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_850
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_850/eval_all.txt
+INFO:root:load data:0.22798728942871094	valid:0.877249002456665
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_855
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_855/eval_all.txt
+INFO:root:load data:0.20577144622802734	valid:0.8624932765960693
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_860
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_860/eval_all.txt
+INFO:root:load data:0.22852253913879395	valid:0.8640909194946289
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_865
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_865/eval_all.txt
+INFO:root:load data:0.22224783897399902	valid:0.8541312217712402
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_870
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_870/eval_all.txt
+INFO:root:load data:0.21537375450134277	valid:0.879112720489502
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_875
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_875/eval_all.txt
+INFO:root:load data:0.21663928031921387	valid:0.8652646541595459
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_880
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_880/eval_all.txt
+INFO:root:load data:0.2184152603149414	valid:0.8909673690795898
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_885
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_885/eval_all.txt
+INFO:root:load data:0.22413182258605957	valid:0.8557112216949463
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_890
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_890/eval_all.txt
+INFO:root:load data:0.22174072265625	valid:0.8745198249816895
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_895
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_895/eval_all.txt
+INFO:root:load data:0.2326827049255371	valid:0.8849472999572754
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_900
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_900/eval_all.txt
+INFO:root:load data:0.22432351112365723	valid:0.9064044952392578
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_905
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_905/eval_all.txt
+INFO:root:load data:0.20543622970581055	valid:0.9029872417449951
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_910
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_910/eval_all.txt
+INFO:root:load data:0.22649049758911133	valid:0.8730432987213135
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_915
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_915/eval_all.txt
+INFO:root:load data:0.2109534740447998	valid:0.8925986289978027
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_920
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_920/eval_all.txt
+INFO:root:load data:0.21932315826416016	valid:0.8437092304229736
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_925
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_925/eval_all.txt
+INFO:root:load data:0.2176816463470459	valid:0.883556604385376
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_930
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_930/eval_all.txt
+INFO:root:load data:0.21621417999267578	valid:0.8704113960266113
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_935
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_935/eval_all.txt
+INFO:root:load data:0.2122352123260498	valid:0.8977763652801514
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_940
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_940/eval_all.txt
+INFO:root:load data:0.21743226051330566	valid:0.8635807037353516
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_945
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_945/eval_all.txt
+INFO:root:load data:0.21172332763671875	valid:0.8708429336547852
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_950
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_950/eval_all.txt
+INFO:root:load data:0.22051477432250977	valid:0.8729140758514404
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_955
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_955/eval_all.txt
+INFO:root:load data:0.20984578132629395	valid:0.8936343193054199
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_960
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_960/eval_all.txt
+INFO:root:load data:0.2139284610748291	valid:0.8705127239227295
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_965
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_965/eval_all.txt
+INFO:root:load data:0.2175302505493164	valid:0.8961353302001953
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_970
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_970/eval_all.txt
+INFO:root:load data:0.22186827659606934	valid:0.8593618869781494
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_975
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_975/eval_all.txt
+INFO:root:load data:0.21119236946105957	valid:0.9036030769348145
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_980
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_980/eval_all.txt
+INFO:root:load data:0.22106647491455078	valid:0.8700976371765137
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_985
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_985/eval_all.txt
+INFO:root:load data:0.22566509246826172	valid:0.8748621940612793
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_990
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_990/eval_all.txt
+INFO:root:load data:0.2183821201324463	valid:0.9047162532806396
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_995
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_995/eval_all.txt
+INFO:root:load data:0.2314770221710205	valid:0.8773207664489746
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1000
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1000/eval_all.txt
+INFO:root:load data:0.21904754638671875	valid:0.8793141841888428
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1005
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1005/eval_all.txt
+INFO:root:load data:0.20871686935424805	valid:0.8805246353149414
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1010
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1010/eval_all.txt
+INFO:root:load data:0.22901630401611328	valid:0.8653013706207275
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1015
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1015/eval_all.txt
+INFO:root:load data:0.20603132247924805	valid:0.8971939086914062
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1020
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1020/eval_all.txt
+INFO:root:load data:0.22159552574157715	valid:0.8707466125488281
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1025
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1025/eval_all.txt
+INFO:root:load data:0.2307112216949463	valid:0.8691439628601074
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1030
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1030/eval_all.txt
+INFO:root:load data:0.23145389556884766	valid:0.8646121025085449
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1035
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1035/eval_all.txt
+INFO:root:load data:0.2156989574432373	valid:0.8992977142333984
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1040
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1040/eval_all.txt
+INFO:root:load data:0.2233569622039795	valid:0.8687269687652588
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1045
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1045/eval_all.txt
+INFO:root:load data:0.20992469787597656	valid:0.8958601951599121
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1050
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1050/eval_all.txt
+INFO:root:load data:0.21867156028747559	valid:0.8682446479797363
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1055
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1055/eval_all.txt
+INFO:root:load data:0.20851516723632812	valid:0.8897566795349121
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1060
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1060/eval_all.txt
+INFO:root:load data:0.21721625328063965	valid:0.8765518665313721
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1065
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1065/eval_all.txt
+INFO:root:load data:0.21142029762268066	valid:0.8876326084136963
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1070
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1070/eval_all.txt
+INFO:root:load data:0.2149510383605957	valid:0.8780982494354248
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1075
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1075/eval_all.txt
+INFO:root:load data:0.21786880493164062	valid:0.8742020130157471
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1080
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1080/eval_all.txt
+INFO:root:load data:0.21787548065185547	valid:0.883171558380127
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1085
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1085/eval_all.txt
+INFO:root:load data:0.2189939022064209	valid:0.8767051696777344
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1090
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1090/eval_all.txt
+INFO:root:load data:0.24135208129882812	valid:0.8815340995788574
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1095
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1095/eval_all.txt
+INFO:root:load data:0.21085286140441895	valid:0.8807358741760254
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1100
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1100/eval_all.txt
+INFO:root:load data:0.20797204971313477	valid:0.9186851978302002
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1105
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1105/eval_all.txt
+INFO:root:load data:0.2312915325164795	valid:0.8826055526733398
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1110
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1110/eval_all.txt
+INFO:root:load data:0.22446179389953613	valid:0.8780474662780762
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1115
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1115/eval_all.txt
+INFO:root:load data:0.2060565948486328	valid:0.8834660053253174
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1120
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1120/eval_all.txt
+INFO:root:load data:0.2323291301727295	valid:0.9011592864990234
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1125
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1125/eval_all.txt
+INFO:root:load data:0.20796728134155273	valid:0.8915348052978516
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1130
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1130/eval_all.txt
+INFO:root:load data:0.23114919662475586	valid:0.8875396251678467
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1135
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1135/eval_all.txt
+INFO:root:load data:0.21705985069274902	valid:0.9057374000549316
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1140
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1140/eval_all.txt
+INFO:root:load data:0.2245786190032959	valid:0.907611608505249
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1145
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1145/eval_all.txt
+INFO:root:load data:0.21567749977111816	valid:0.9163825511932373
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1150
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1150/eval_all.txt
+INFO:root:load data:0.22097182273864746	valid:0.8784282207489014
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1155
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1155/eval_all.txt
+INFO:root:load data:0.22501492500305176	valid:0.8863511085510254
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1160
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1160/eval_all.txt
+INFO:root:load data:0.22067546844482422	valid:0.9183354377746582
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1165
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1165/eval_all.txt
+INFO:root:load data:0.23122310638427734	valid:0.8907487392425537
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1170
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1170/eval_all.txt
+INFO:root:load data:0.22479724884033203	valid:0.915215015411377
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1175
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1175/eval_all.txt
+INFO:root:load data:0.21968555450439453	valid:0.9042620658874512
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1180
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1180/eval_all.txt
+INFO:root:load data:0.22077322006225586	valid:0.9051728248596191
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1185
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1185/eval_all.txt
+INFO:root:load data:0.23209762573242188	valid:0.8874826431274414
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1190
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1190/eval_all.txt
+INFO:root:load data:0.24197864532470703	valid:0.9003539085388184
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1195
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1195/eval_all.txt
+INFO:root:load data:0.23964667320251465	valid:0.8848176002502441
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1200
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1200/eval_all.txt
+INFO:root:load data:0.21940875053405762	valid:0.9248220920562744
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1205
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1205/eval_all.txt
+INFO:root:load data:0.22167587280273438	valid:0.8780038356781006
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1210
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1210/eval_all.txt
+INFO:root:load data:0.23338532447814941	valid:0.9019820690155029
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1215
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1215/eval_all.txt
+INFO:root:load data:0.21882343292236328	valid:0.9073688983917236
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1220
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1220/eval_all.txt
+INFO:root:load data:0.22778725624084473	valid:0.9122624397277832
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1225
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1225/eval_all.txt
+INFO:root:load data:0.2243335247039795	valid:0.9297118186950684
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1230
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1230/eval_all.txt
+INFO:root:load data:0.2358400821685791	valid:0.9099082946777344
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1235
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1235/eval_all.txt
+INFO:root:load data:0.21702814102172852	valid:0.9132068157196045
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1240
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1240/eval_all.txt
+INFO:root:load data:0.23057818412780762	valid:0.9196827411651611
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1245
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1245/eval_all.txt
+INFO:root:load data:0.2196340560913086	valid:0.9395468235015869
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1250
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1250/eval_all.txt
+INFO:root:load data:0.23128843307495117	valid:0.9085471630096436
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1255
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1255/eval_all.txt
+INFO:root:load data:0.2277994155883789	valid:0.9189112186431885
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1260
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1260/eval_all.txt
+INFO:root:load data:0.2224414348602295	valid:0.9106366634368896
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1265
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1265/eval_all.txt
+INFO:root:load data:0.2382800579071045	valid:0.9211711883544922
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1270
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1270/eval_all.txt
+INFO:root:load data:0.22235870361328125	valid:0.9132838249206543
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1275
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1275/eval_all.txt
+INFO:root:load data:0.23638200759887695	valid:0.9046664237976074
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1280
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1280/eval_all.txt
+INFO:root:load data:0.21581292152404785	valid:0.9148781299591064
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1285
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1285/eval_all.txt
+INFO:root:load data:0.23267340660095215	valid:0.904627799987793
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1290
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1290/eval_all.txt
+INFO:root:load data:0.22619152069091797	valid:0.9194803237915039
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1295
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1295/eval_all.txt
+INFO:root:load data:0.22017168998718262	valid:0.9118525981903076
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1300
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1300/eval_all.txt
+INFO:root:load data:0.23322510719299316	valid:0.9260578155517578
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1305
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1305/eval_all.txt
+INFO:root:load data:0.24709558486938477	valid:0.9250845909118652
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1310
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1310/eval_all.txt
+INFO:root:load data:0.21379590034484863	valid:0.9256119728088379
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1315
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1315/eval_all.txt
+INFO:root:load data:0.2343454360961914	valid:0.9188332557678223
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1320
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1320/eval_all.txt
+INFO:root:load data:0.23777127265930176	valid:0.9374234676361084
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1325
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1325/eval_all.txt
+INFO:root:load data:0.21343111991882324	valid:0.8403491973876953
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1330
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1330/eval_all.txt
+INFO:root:load data:0.22587370872497559	valid:0.8425462245941162
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1335
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1335/eval_all.txt
+INFO:root:load data:0.21707510948181152	valid:0.8248436450958252
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1340
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1340/eval_all.txt
+INFO:root:load data:0.21490859985351562	valid:0.833958625793457
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1345
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1345/eval_all.txt
+INFO:root:load data:0.22321367263793945	valid:0.8301169872283936
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1350
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1350/eval_all.txt
+INFO:root:load data:0.21422505378723145	valid:0.8368151187896729
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1355
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1355/eval_all.txt
+INFO:root:load data:0.2140657901763916	valid:0.8449769020080566
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1360
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1360/eval_all.txt
+INFO:root:load data:0.2194349765777588	valid:0.9147047996520996
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1365
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1365/eval_all.txt
+INFO:root:load data:0.2051844596862793	valid:0.9166712760925293
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1370
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1370/eval_all.txt
+INFO:root:load data:0.22386765480041504	valid:0.8315029144287109
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1375
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1375/eval_all.txt
+INFO:root:load data:0.21290159225463867	valid:0.8325314521789551
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1380
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1380/eval_all.txt
+INFO:root:load data:0.21750187873840332	valid:0.8390140533447266
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1385
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1385/eval_all.txt
+INFO:root:load data:0.21463465690612793	valid:0.9165928363800049
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1390
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1390/eval_all.txt
+INFO:root:load data:0.21515488624572754	valid:0.8383052349090576
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1395
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1395/eval_all.txt
+INFO:root:load data:0.20765256881713867	valid:0.8341455459594727
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1400
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1400/eval_all.txt
+INFO:root:load data:0.21284818649291992	valid:0.8308877944946289
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1405
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1405/eval_all.txt
+INFO:root:load data:0.20835661888122559	valid:0.9201653003692627
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1410
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1410/eval_all.txt
+INFO:root:load data:0.21618342399597168	valid:0.835120439529419
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1415
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1415/eval_all.txt
+INFO:root:load data:0.20830416679382324	valid:0.8323462009429932
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1420
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1420/eval_all.txt
+INFO:root:load data:0.2089238166809082	valid:0.8352406024932861
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1425
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1425/eval_all.txt
+INFO:root:load data:0.21698474884033203	valid:0.8403987884521484
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1430
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1430/eval_all.txt
+INFO:root:load data:0.22463130950927734	valid:0.9104359149932861
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1435
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1435/eval_all.txt
+INFO:root:load data:0.20976495742797852	valid:0.832381010055542
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1440
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1440/eval_all.txt
+INFO:root:load data:0.21743369102478027	valid:0.835681676864624
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1445
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1445/eval_all.txt
+INFO:root:load data:0.21391677856445312	valid:0.8322930335998535
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1450
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1450/eval_all.txt
+INFO:root:load data:0.21913385391235352	valid:0.8296229839324951
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1455
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1455/eval_all.txt
+INFO:root:load data:0.22054624557495117	valid:0.8403799533843994
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1460
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1460/eval_all.txt
+INFO:root:load data:0.21347928047180176	valid:0.8312458992004395
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1465
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1465/eval_all.txt
+INFO:root:load data:0.21597862243652344	valid:0.8321142196655273
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1470
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1470/eval_all.txt
+INFO:root:load data:0.22063016891479492	valid:0.8327298164367676
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1475
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1475/eval_all.txt
+INFO:root:load data:0.20910263061523438	valid:0.8333566188812256
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1480
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1480/eval_all.txt
+INFO:root:load data:0.22392845153808594	valid:0.8262946605682373
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1485
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1485/eval_all.txt
+INFO:root:load data:0.21197748184204102	valid:0.8276934623718262
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1490
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1490/eval_all.txt
+INFO:root:load data:0.2177867889404297	valid:0.8282661437988281
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1495
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1495/eval_all.txt
+INFO:root:load data:0.22160601615905762	valid:0.9168839454650879
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1500
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1500/eval_all.txt
+INFO:root:load data:0.2239704132080078	valid:0.9163632392883301
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1505
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1505/eval_all.txt
+INFO:root:load data:0.21457505226135254	valid:0.8323156833648682
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1510
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1510/eval_all.txt
+INFO:root:load data:0.2130742073059082	valid:0.8340742588043213
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1515
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1515/eval_all.txt
+INFO:root:load data:0.21144580841064453	valid:0.9154047966003418
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1520
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1520/eval_all.txt
+INFO:root:load data:0.2114577293395996	valid:0.8356688022613525
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1525
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1525/eval_all.txt
+INFO:root:load data:0.21572256088256836	valid:0.8315036296844482
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1530
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1530/eval_all.txt
+INFO:root:load data:0.20930218696594238	valid:0.8346507549285889
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1535
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1535/eval_all.txt
+INFO:root:load data:0.22323060035705566	valid:0.8260784149169922
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1540
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1540/eval_all.txt
+INFO:root:load data:0.21906828880310059	valid:0.9130675792694092
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1545
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1545/eval_all.txt
+INFO:root:load data:0.20932412147521973	valid:0.9179596900939941
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1550
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1550/eval_all.txt
+INFO:root:load data:0.21419191360473633	valid:0.9163663387298584
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1555
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1555/eval_all.txt
+INFO:root:load data:0.20468831062316895	valid:0.8322961330413818
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1560
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1560/eval_all.txt
+INFO:root:load data:0.21784067153930664	valid:0.8328595161437988
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1565
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1565/eval_all.txt
+INFO:root:load data:0.20841479301452637	valid:0.8320622444152832
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1570
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1570/eval_all.txt
+INFO:root:load data:0.21563959121704102	valid:0.8319110870361328
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1575
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1575/eval_all.txt
+INFO:root:load data:0.21521639823913574	valid:0.8307325839996338
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1580
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1580/eval_all.txt
+INFO:root:load data:0.22041702270507812	valid:0.8370587825775146
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1585
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1585/eval_all.txt
+INFO:root:load data:0.2197098731994629	valid:0.9100935459136963
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1590
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1590/eval_all.txt
+INFO:root:load data:0.22400188446044922	valid:0.9103925228118896
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1595
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1595/eval_all.txt
+INFO:root:load data:0.207505464553833	valid:0.8431882858276367
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1600
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1600/eval_all.txt
+INFO:root:load data:0.21445894241333008	valid:0.8336272239685059
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1605
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1605/eval_all.txt
+INFO:root:load data:0.22037076950073242	valid:0.8405425548553467
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1610
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1610/eval_all.txt
+INFO:root:load data:0.2162489891052246	valid:0.9103131294250488
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1615
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1615/eval_all.txt
+INFO:root:load data:0.20748329162597656	valid:0.9164655208587646
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1620
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1620/eval_all.txt
+INFO:root:load data:0.2101578712463379	valid:0.8319518566131592
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1625
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1625/eval_all.txt
+INFO:root:load data:0.21139121055603027	valid:0.8260891437530518
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1630
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1630/eval_all.txt
+INFO:root:load data:0.21226000785827637	valid:0.8315911293029785
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1635
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1635/eval_all.txt
+INFO:root:load data:0.2236955165863037	valid:0.8274884223937988
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1640
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1640/eval_all.txt
+INFO:root:load data:0.22380828857421875	valid:0.8274142742156982
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1645
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1645/eval_all.txt
+INFO:root:load data:0.21614360809326172	valid:0.8269684314727783
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1650
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1650/eval_all.txt
+INFO:root:load data:0.21680784225463867	valid:0.8340003490447998
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1655
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1655/eval_all.txt
+INFO:root:load data:0.22094416618347168	valid:0.9125220775604248
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1660
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1660/eval_all.txt
+INFO:root:load data:0.20682001113891602	valid:0.8417463302612305
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1665
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1665/eval_all.txt
+INFO:root:load data:0.21604347229003906	valid:0.8501276969909668
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1670
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1670/eval_all.txt
+INFO:root:load data:0.2092747688293457	valid:0.8309085369110107
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1675
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1675/eval_all.txt
+INFO:root:load data:0.21799540519714355	valid:0.8328173160552979
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1680
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1680/eval_all.txt
+INFO:root:load data:0.21645474433898926	valid:0.8304405212402344
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1685
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1685/eval_all.txt
+INFO:root:load data:0.21772527694702148	valid:0.8287873268127441
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1690
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1690/eval_all.txt
+INFO:root:load data:0.21285176277160645	valid:0.8313443660736084
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1695
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1695/eval_all.txt
+INFO:root:load data:0.21326661109924316	valid:0.8311796188354492
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1700
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1700/eval_all.txt
+INFO:root:load data:0.20511507987976074	valid:0.8309931755065918
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1705
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1705/eval_all.txt
+INFO:root:load data:0.21396565437316895	valid:0.8311622142791748
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1710
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1710/eval_all.txt
+INFO:root:load data:0.21802234649658203	valid:0.8277649879455566
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1715
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1715/eval_all.txt
+INFO:root:load data:0.20520496368408203	valid:0.8328094482421875
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1720
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1720/eval_all.txt
+INFO:root:load data:0.21577668190002441	valid:0.8282773494720459
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1725
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1725/eval_all.txt
+INFO:root:load data:0.2050037384033203	valid:0.8312749862670898
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1730
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1730/eval_all.txt
+INFO:root:load data:0.21784162521362305	valid:0.8340749740600586
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1735
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1735/eval_all.txt
+INFO:root:load data:0.21317219734191895	valid:0.8340969085693359
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1740
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1740/eval_all.txt
+INFO:root:load data:0.22177910804748535	valid:0.8393242359161377
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1745
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1745/eval_all.txt
+INFO:root:load data:0.21032071113586426	valid:0.829552412033081
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1750
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1750/eval_all.txt
+INFO:root:load data:0.21187853813171387	valid:0.8314177989959717
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1755
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1755/eval_all.txt
+INFO:root:load data:0.2089548110961914	valid:0.8305435180664062
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1760
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1760/eval_all.txt
+INFO:root:load data:0.21653532981872559	valid:0.9152491092681885
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1765
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1765/eval_all.txt
+INFO:root:load data:0.21164464950561523	valid:0.8310093879699707
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1770
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1770/eval_all.txt
+INFO:root:load data:0.20993828773498535	valid:0.8308975696563721
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1775
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1775/eval_all.txt
+INFO:root:load data:0.21219968795776367	valid:0.8272416591644287
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1780
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1780/eval_all.txt
+INFO:root:load data:0.22185945510864258	valid:0.8318924903869629
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1785
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1785/eval_all.txt
+INFO:root:load data:0.2122194766998291	valid:0.9170167446136475
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1790
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1790/eval_all.txt
+INFO:root:load data:0.21443819999694824	valid:0.9141981601715088
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1795
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1795/eval_all.txt
+INFO:root:load data:0.21657061576843262	valid:0.9147095680236816
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1800
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1800/eval_all.txt
+INFO:root:load data:0.2140793800354004	valid:0.8309574127197266
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1805
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1805/eval_all.txt
+INFO:root:load data:0.21509838104248047	valid:0.9083313941955566
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1810
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1810/eval_all.txt
+INFO:root:load data:0.2042689323425293	valid:0.832226037979126
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1815
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1815/eval_all.txt
+INFO:root:load data:0.2101447582244873	valid:0.8323459625244141
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1820
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1820/eval_all.txt
+INFO:root:load data:0.2156689167022705	valid:0.832352876663208
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1825
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1825/eval_all.txt
+INFO:root:load data:0.21741652488708496	valid:0.8265669345855713
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1830
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1830/eval_all.txt
+INFO:root:load data:0.21557879447937012	valid:0.830385684967041
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1835
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1835/eval_all.txt
+INFO:root:load data:0.2232801914215088	valid:0.8280909061431885
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1840
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1840/eval_all.txt
+INFO:root:load data:0.21039104461669922	valid:0.8390350341796875
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1845
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1845/eval_all.txt
+INFO:root:load data:0.2139277458190918	valid:0.8294506072998047
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1850
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1850/eval_all.txt
+INFO:root:load data:0.2199389934539795	valid:0.831822395324707
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1855
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1855/eval_all.txt
+INFO:root:load data:0.21533703804016113	valid:0.9144277572631836
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1860
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1860/eval_all.txt
+INFO:root:load data:0.22314929962158203	valid:0.8338403701782227
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1865
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1865/eval_all.txt
+INFO:root:load data:0.21345281600952148	valid:0.8323779106140137
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1870
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1870/eval_all.txt
+INFO:root:load data:0.2232503890991211	valid:0.8388462066650391
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1875
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1875/eval_all.txt
+INFO:root:load data:0.21684646606445312	valid:0.9179282188415527
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1880
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1880/eval_all.txt
+INFO:root:load data:0.20969915390014648	valid:0.9172143936157227
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1885
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1885/eval_all.txt
+INFO:root:load data:0.218641996383667	valid:0.9159114360809326
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1890
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1890/eval_all.txt
+INFO:root:load data:0.22672319412231445	valid:0.8528785705566406
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1895
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1895/eval_all.txt
+INFO:root:load data:0.20795059204101562	valid:0.859201192855835
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1900
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1900/eval_all.txt
+INFO:root:load data:0.21430277824401855	valid:0.8330240249633789
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1905
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1905/eval_all.txt
+INFO:root:load data:0.2225484848022461	valid:0.8357982635498047
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1910
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1910/eval_all.txt
+INFO:root:load data:0.2198200225830078	valid:0.8333592414855957
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1915
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1915/eval_all.txt
+INFO:root:load data:0.20943260192871094	valid:0.9323832988739014
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1920
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1920/eval_all.txt
+INFO:root:load data:0.21950244903564453	valid:0.8560829162597656
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1925
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1925/eval_all.txt
+INFO:root:load data:0.21550464630126953	valid:0.8371245861053467
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1930
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1930/eval_all.txt
+INFO:root:load data:0.2251894474029541	valid:0.82908034324646
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1935
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1935/eval_all.txt
+INFO:root:load data:0.21952271461486816	valid:0.8243675231933594
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1940
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1940/eval_all.txt
+INFO:root:load data:0.2079453468322754	valid:0.8313019275665283
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1945
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1945/eval_all.txt
+INFO:root:load data:0.2193765640258789	valid:0.8391749858856201
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1950
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1950/eval_all.txt
+INFO:root:load data:0.2204446792602539	valid:0.918933629989624
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1955
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1955/eval_all.txt
+INFO:root:load data:0.2185230255126953	valid:0.8310658931732178
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1960
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1960/eval_all.txt
+INFO:root:load data:0.20573735237121582	valid:0.8502545356750488
+INFO:root:train trajgru begin...
+INFO:root:total_num:6464821
+INFO:root:train trajgru begin...
+INFO:root:torch.Size([15, 4, 1, 600, 600])
+INFO:root:<class 'torch.Tensor'>
+INFO:root:torch.Size([5, 4, 1, 600, 600])
+INFO:root:torch.Size([10, 4, 1, 600, 600])
+INFO:root:(4, 15)
+INFO:root:train trajgru begin...
+INFO:root:total_num:6464821
+INFO:root:train trajgru begin...
+INFO:root:torch.Size([15, 3, 1, 600, 600])
+INFO:root:<class 'torch.Tensor'>
+INFO:root:torch.Size([5, 3, 1, 600, 600])
+INFO:root:torch.Size([10, 3, 1, 600, 600])
+INFO:root:(3, 15)
+INFO:root:train trajgru begin...
+INFO:root:total_num:6464821
+INFO:root:train trajgru begin...
+INFO:root:torch.Size([15, 3, 1, 600, 600])
+INFO:root:<class 'torch.Tensor'>
+INFO:root:torch.Size([5, 3, 1, 600, 600])
+INFO:root:torch.Size([10, 3, 1, 600, 600])
+INFO:root:(3, 15)
+INFO:root:train trajgru begin...
+INFO:root:total_num:6464821
+INFO:root:train trajgru begin...
+INFO:root:torch.Size([15, 3, 1, 600, 600])
+INFO:root:<class 'torch.Tensor'>
+INFO:root:torch.Size([5, 3, 1, 600, 600])
+INFO:root:torch.Size([10, 3, 1, 600, 600])
+INFO:root:(3, 15)
+INFO:root:train trajgru begin...
+INFO:root:total_num:6464821
+INFO:root:train trajgru begin...
+INFO:root:torch.Size([15, 4, 1, 600, 600])
+INFO:root:<class 'torch.Tensor'>
+INFO:root:torch.Size([5, 4, 1, 600, 600])
+INFO:root:torch.Size([10, 4, 1, 600, 600])
+INFO:root:(4, 15)
+INFO:root:train trajgru begin...
+INFO:root:total_num:6464821
+INFO:root:train trajgru begin...
+INFO:root:torch.Size([15, 4, 1, 600, 600])
+INFO:root:<class 'torch.Tensor'>
+INFO:root:torch.Size([5, 4, 1, 600, 600])
+INFO:root:torch.Size([10, 4, 1, 600, 600])
+INFO:root:(4, 15)
+INFO:root:train trajgru begin...
+INFO:root:total_num:6464821
+INFO:root:train trajgru begin...
+INFO:root:torch.Size([15, 4, 1, 600, 600])
+INFO:root:<class 'torch.Tensor'>
+INFO:root:torch.Size([5, 4, 1, 600, 600])
+INFO:root:torch.Size([10, 4, 1, 600, 600])
+INFO:root:(4, 15)
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_100
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_100/eval_all.txt
+INFO:root:load data:0.20668363571166992	valid:0.8227753639221191
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_200
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_200/eval_all.txt
+INFO:root:load data:0.22414350509643555	valid:0.8271903991699219
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_300
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_300/eval_all.txt
+INFO:root:load data:0.2112407684326172	valid:0.8382413387298584
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_400
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_400/eval_all.txt
+INFO:root:load data:0.21653413772583008	valid:0.8320126533508301
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_500
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_500/eval_all.txt
+INFO:root:load data:0.21844863891601562	valid:0.8258883953094482
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_600
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_600/eval_all.txt
+INFO:root:load data:0.21193790435791016	valid:0.8275871276855469
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_700
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_700/eval_all.txt
+INFO:root:load data:0.2102212905883789	valid:0.8302359580993652
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_800
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_800/eval_all.txt
+INFO:root:load data:0.20546913146972656	valid:0.8278388977050781
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_900
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_900/eval_all.txt
+INFO:root:load data:0.2097017765045166	valid:0.8282055854797363
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1000
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1000/eval_all.txt
+INFO:root:load data:0.20580744743347168	valid:0.8278143405914307
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1100
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1100/eval_all.txt
+INFO:root:load data:0.20871353149414062	valid:0.8325021266937256
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1200
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1200/eval_all.txt
+INFO:root:load data:0.21345019340515137	valid:0.8285698890686035
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1300
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1300/eval_all.txt
+INFO:root:load data:0.21439766883850098	valid:0.8283340930938721
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1400
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1400/eval_all.txt
+INFO:root:load data:0.20705485343933105	valid:0.8272702693939209
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1500
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1500/eval_all.txt
+INFO:root:load data:0.21227002143859863	valid:0.8326098918914795
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1600
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1600/eval_all.txt
+INFO:root:load data:0.20504236221313477	valid:0.9091238975524902
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1700
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1700/eval_all.txt
+INFO:root:load data:0.20563960075378418	valid:0.8338234424591064
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1800
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1800/eval_all.txt
+INFO:root:load data:0.21175384521484375	valid:0.8334629535675049
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_1900
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_1900/eval_all.txt
+INFO:root:load data:0.20436501502990723	valid:0.8277428150177002
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_2000
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_2000/eval_all.txt
+INFO:root:load data:0.2171306610107422	valid:0.8361494541168213
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_2100
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_2100/eval_all.txt
+INFO:root:load data:0.20752453804016113	valid:0.8304939270019531
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_2200
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_2200/eval_all.txt
+INFO:root:load data:0.21221518516540527	valid:0.8315303325653076
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_2300
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_2300/eval_all.txt
+INFO:root:load data:0.21384072303771973	valid:0.829409122467041
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_2400
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_2400/eval_all.txt
+INFO:root:load data:0.2191922664642334	valid:0.8224775791168213
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_2500
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_2500/eval_all.txt
+INFO:root:load data:0.20879387855529785	valid:0.8311450481414795
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_2600
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_2600/eval_all.txt
+INFO:root:load data:0.2069084644317627	valid:0.8270053863525391
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_2700
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_2700/eval_all.txt
+INFO:root:load data:0.2105858325958252	valid:0.827244758605957
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_2800
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_2800/eval_all.txt
+INFO:root:load data:0.21280956268310547	valid:0.841202974319458
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_2900
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_2900/eval_all.txt
+INFO:root:load data:0.2214968204498291	valid:0.8363611698150635
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_3000
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_3000/eval_all.txt
+INFO:root:load data:0.21355342864990234	valid:0.8283452987670898
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_3100
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_3100/eval_all.txt
+INFO:root:load data:0.20931601524353027	valid:0.8550608158111572
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_3200
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_3200/eval_all.txt
+INFO:root:load data:0.2127208709716797	valid:0.8235304355621338
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_3300
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_3300/eval_all.txt
+INFO:root:load data:0.2126784324645996	valid:0.8273248672485352
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_3400
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_3400/eval_all.txt
+INFO:root:load data:0.21663355827331543	valid:0.8275628089904785
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_3500
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_3500/eval_all.txt
+INFO:root:load data:0.21387124061584473	valid:0.8250303268432617
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_3600
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_3600/eval_all.txt
+INFO:root:load data:0.21853256225585938	valid:0.8311522006988525
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_3700
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_3700/eval_all.txt
+INFO:root:load data:0.21261239051818848	valid:0.8254919052124023
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_3800
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_3800/eval_all.txt
+INFO:root:load data:0.21432924270629883	valid:0.8226392269134521
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_3900
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_3900/eval_all.txt
+INFO:root:load data:0.21226000785827637	valid:0.8484101295471191
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_4000
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_4000/eval_all.txt
+INFO:root:load data:0.21856927871704102	valid:0.8254213333129883
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_4100
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_4100/eval_all.txt
+INFO:root:load data:0.20708250999450684	valid:0.8297126293182373
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_4200
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_4200/eval_all.txt
+INFO:root:load data:0.21427226066589355	valid:0.8275754451751709
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_4300
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_4300/eval_all.txt
+INFO:root:load data:0.21819448471069336	valid:0.8205726146697998
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_4400
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_4400/eval_all.txt
+INFO:root:load data:0.20549535751342773	valid:0.8292019367218018
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_4500
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_4500/eval_all.txt
+INFO:root:load data:0.21905255317687988	valid:0.8265078067779541
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_4600
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_4600/eval_all.txt
+INFO:root:load data:0.21327877044677734	valid:0.8269712924957275
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_4700
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_4700/eval_all.txt
+INFO:root:load data:0.21120476722717285	valid:0.8280417919158936
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_4800
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_4800/eval_all.txt
+INFO:root:load data:0.21429800987243652	valid:0.8274695873260498
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_4900
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_4900/eval_all.txt
+INFO:root:load data:0.21502327919006348	valid:0.8361387252807617
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_5000
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_5000/eval_all.txt
+INFO:root:load data:0.2179877758026123	valid:0.8254516124725342
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_5100
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_5100/eval_all.txt
+INFO:root:load data:0.2080683708190918	valid:0.8375101089477539
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_5200
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_5200/eval_all.txt
+INFO:root:load data:0.21665716171264648	valid:0.8283557891845703
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_5300
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_5300/eval_all.txt
+INFO:root:load data:0.21120524406433105	valid:0.8735091686248779
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_5400
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_5400/eval_all.txt
+INFO:root:load data:0.21832561492919922	valid:0.8877036571502686
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_5500
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_5500/eval_all.txt
+INFO:root:load data:0.21366381645202637	valid:0.8925189971923828
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_5600
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_5600/eval_all.txt
+INFO:root:load data:0.21243739128112793	valid:0.891167402267456
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_5700
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_5700/eval_all.txt
+INFO:root:load data:0.21845293045043945	valid:0.8753054141998291
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_5800
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_5800/eval_all.txt
+INFO:root:load data:0.21643686294555664	valid:0.9041299819946289
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_5900
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_5900/eval_all.txt
+INFO:root:load data:0.2420048713684082	valid:0.906233549118042
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_6000
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_6000/eval_all.txt
+INFO:root:load data:0.2244718074798584	valid:0.912883996963501
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_6100
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_6100/eval_all.txt
+INFO:root:load data:0.21774840354919434	valid:0.9019134044647217
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_6200
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_6200/eval_all.txt
+INFO:root:load data:0.2293236255645752	valid:0.9249169826507568
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_6300
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_6300/eval_all.txt
+INFO:root:load data:0.22691679000854492	valid:0.931190013885498
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_6400
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_6400/eval_all.txt
+INFO:root:load data:0.22924208641052246	valid:0.9227030277252197
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_6500
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_6500/eval_all.txt
+INFO:root:load data:0.23433828353881836	valid:0.947192907333374
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_6600
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_6600/eval_all.txt
+INFO:root:load data:0.22389841079711914	valid:0.9405484199523926
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_6700
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_6700/eval_all.txt
+INFO:root:load data:0.22822952270507812	valid:0.9412541389465332
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_6800
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_6800/eval_all.txt
+INFO:root:load data:0.23293757438659668	valid:0.9443938732147217
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_6900
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_6900/eval_all.txt
+INFO:root:load data:0.23712539672851562	valid:0.9494974613189697
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_7000
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_7000/eval_all.txt
+INFO:root:load data:0.24943923950195312	valid:0.9598233699798584
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_7100
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_7100/eval_all.txt
+INFO:root:load data:0.23685503005981445	valid:0.9549424648284912
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_7200
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_7200/eval_all.txt
+INFO:root:load data:0.24861502647399902	valid:0.9568367004394531
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_7300
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_7300/eval_all.txt
+INFO:root:load data:0.24181079864501953	valid:0.9546017646789551
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_7400
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_7400/eval_all.txt
+INFO:root:load data:0.2421276569366455	valid:0.9450716972351074
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_7500
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_7500/eval_all.txt
+INFO:root:load data:0.24257421493530273	valid:0.961615800857544
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_7600
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_7600/eval_all.txt
+INFO:root:load data:0.22935748100280762	valid:0.9506745338439941
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_7700
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_7700/eval_all.txt
+INFO:root:load data:0.2501986026763916	valid:0.9567227363586426
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_7800
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_7800/eval_all.txt
+INFO:root:load data:0.24516582489013672	valid:0.9476284980773926
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_7900
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_7900/eval_all.txt
+INFO:root:load data:0.23640918731689453	valid:0.9380929470062256
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_8000
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_8000/eval_all.txt
+INFO:root:load data:0.22994279861450195	valid:0.9418535232543945
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_8100
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_8100/eval_all.txt
+INFO:root:load data:0.23750758171081543	valid:0.9550385475158691
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_8200
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_8200/eval_all.txt
+INFO:root:load data:0.25328493118286133	valid:0.969754695892334
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_8300
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_8300/eval_all.txt
+INFO:root:load data:0.23612380027770996	valid:0.9490718841552734
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_8400
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_8400/eval_all.txt
+INFO:root:load data:0.2467029094696045	valid:0.9593901634216309
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_8500
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_8500/eval_all.txt
+INFO:root:load data:0.24654841423034668	valid:0.956768274307251
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_8600
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_8600/eval_all.txt
+INFO:root:load data:0.23198413848876953	valid:0.966353178024292
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_8700
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_8700/eval_all.txt
+INFO:root:load data:0.24637103080749512	valid:0.9704813957214355
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_8800
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_8800/eval_all.txt
+INFO:root:load data:0.2468738555908203	valid:0.9504115581512451
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_8900
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_8900/eval_all.txt
+INFO:root:load data:0.25122642517089844	valid:0.9631125926971436
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_9000
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_9000/eval_all.txt
+INFO:root:load data:0.23119211196899414	valid:0.9623322486877441
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_9100
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_9100/eval_all.txt
+INFO:root:load data:0.24002575874328613	valid:0.9630815982818604
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_9200
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_9200/eval_all.txt
+INFO:root:load data:0.2562878131866455	valid:0.962101936340332
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_9300
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_9300/eval_all.txt
+INFO:root:load data:0.24790120124816895	valid:0.9647233486175537
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_9400
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_9400/eval_all.txt
+INFO:root:load data:0.23690390586853027	valid:12.547479152679443
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_9500
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_9500/eval_all.txt
+INFO:root:load data:0.21769165992736816	valid:0.8277781009674072
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_9600
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_9600/eval_all.txt
+INFO:root:load data:0.20714664459228516	valid:0.8290271759033203
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_9700
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_9700/eval_all.txt
+INFO:root:load data:0.22108173370361328	valid:0.827282190322876
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_9800
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_9800/eval_all.txt
+INFO:root:load data:0.2198331356048584	valid:0.8302628993988037
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_9900
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_9900/eval_all.txt
+INFO:root:load data:0.22423863410949707	valid:0.8235585689544678
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_10000
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_10000/eval_all.txt
+INFO:root:load data:0.21655011177062988	valid:0.8296916484832764
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_10100
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_10100/eval_all.txt
+INFO:root:load data:0.21040964126586914	valid:0.8285293579101562
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_10200
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_10200/eval_all.txt
+INFO:root:load data:0.2197260856628418	valid:0.8250429630279541
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_10300
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_10300/eval_all.txt
+INFO:root:load data:0.22334671020507812	valid:0.9209573268890381
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_10400
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_10400/eval_all.txt
+INFO:root:load data:0.22208905220031738	valid:0.831195592880249
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_10500
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_10500/eval_all.txt
+INFO:root:load data:0.2198946475982666	valid:0.8725216388702393
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_10600
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_10600/eval_all.txt
+INFO:root:load data:0.21721959114074707	valid:0.8286237716674805
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_10700
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_10700/eval_all.txt
+INFO:root:load data:0.20737695693969727	valid:0.8280014991760254
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_10800
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_10800/eval_all.txt
+INFO:root:load data:0.21792125701904297	valid:0.8308756351470947
+INFO:root:Saving evaluation result to /mnt/data/train_model/iter_10900
+INFO:root:Saving readable txt of Evaluation to /mnt/data/train_model/iter_10900/eval_all.txt
+INFO:root:load data:0.21883130073547363	valid:0.8931272029876709
+INFO:root:train trajgru begin...

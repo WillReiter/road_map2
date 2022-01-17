@@ -1,0 +1,78 @@
+INFO:root:train trajgru begin...
+INFO:root:train trajgru begin...
+INFO:root:train trajgru begin...
+INFO:root:train trajgru begin...
+INFO:root:train trajgru begin...
+INFO:root:torch.Size([25, 4, 1, 600, 600])
+INFO:root:<class 'torch.Tensor'>
+INFO:root:torch.Size([5, 4, 1, 600, 600])
+INFO:root:torch.Size([20, 4, 1, 600, 600])
+INFO:root:(4, 25)
+INFO:root:train trajgru begin...
+INFO:root:train trajgru begin...
+INFO:root:torch.Size([25, 5, 1, 600, 600])
+INFO:root:<class 'torch.Tensor'>
+INFO:root:torch.Size([5, 5, 1, 600, 600])
+INFO:root:torch.Size([20, 5, 1, 600, 600])
+INFO:root:(5, 25)
+INFO:root:train trajgru begin...
+INFO:root:train trajgru begin...
+INFO:root:torch.Size([25, 6, 1, 600, 600])
+INFO:root:<class 'torch.Tensor'>
+INFO:root:torch.Size([5, 6, 1, 600, 600])
+INFO:root:torch.Size([20, 6, 1, 600, 600])
+INFO:root:(6, 25)
+INFO:root:train trajgru begin...
+INFO:root:train trajgru begin...
+INFO:root:torch.Size([25, 5, 1, 600, 600])
+INFO:root:<class 'torch.Tensor'>
+INFO:root:torch.Size([5, 5, 1, 600, 600])
+INFO:root:torch.Size([20, 5, 1, 600, 600])
+INFO:root:(5, 25)
+INFO:root:Saving evaluation result to /home/syao/Desktop/trajGRU/bams/experiments/train_model_25/iter_1
+INFO:root:Saving readable txt of Evaluation to /home/syao/Desktop/trajGRU/bams/experiments/train_model_25/iter_1/eval_all.txt
+INFO:root:load data:0.3390789031982422	valid:1.831183910369873
+INFO:root:train trajgru begin...
+INFO:root:train trajgru begin...
+INFO:root:torch.Size([25, 5, 1, 600, 600])
+INFO:root:<class 'torch.Tensor'>
+INFO:root:torch.Size([5, 5, 1, 600, 600])
+INFO:root:torch.Size([20, 5, 1, 600, 600])
+INFO:root:(5, 25)
+INFO:root:Saving evaluation result to /home/syao/Desktop/trajGRU/bams/experiments/train_model_25/iter_2000
+INFO:root:Saving readable txt of Evaluation to /home/syao/Desktop/trajGRU/bams/experiments/train_model_25/iter_2000/eval_all.txt
+INFO:root:load data:0.353043794631958	valid:1.8289391994476318
+INFO:root:Saving evaluation result to /home/syao/Desktop/trajGRU/bams/experiments/train_model_25/iter_4000
+INFO:root:Saving readable txt of Evaluation to /home/syao/Desktop/trajGRU/bams/experiments/train_model_25/iter_4000/eval_all.txt
+INFO:root:load data:0.40517544746398926	valid:1.9295246601104736
+INFO:root:Saving evaluation result to /home/syao/Desktop/trajGRU/bams/experiments/train_model_25/iter_6000
+INFO:root:Saving readable txt of Evaluation to /home/syao/Desktop/trajGRU/bams/experiments/train_model_25/iter_6000/eval_all.txt
+INFO:root:load data:0.3650500774383545	valid:1.9414076805114746
+INFO:root:Saving evaluation result to /home/syao/Desktop/trajGRU/bams/experiments/train_model_25/iter_8000
+INFO:root:Saving readable txt of Evaluation to /home/syao/Desktop/trajGRU/bams/experiments/train_model_25/iter_8000/eval_all.txt
+INFO:root:load data:0.42063403129577637	valid:1.8839609622955322
+INFO:root:train trajgru begin...
+INFO:root:train trajgru begin...
+INFO:root:torch.Size([25, 5, 1, 600, 600])
+INFO:root:<class 'torch.Tensor'>
+INFO:root:torch.Size([5, 5, 1, 600, 600])
+INFO:root:torch.Size([20, 5, 1, 600, 600])
+INFO:root:(5, 25)
+INFO:root:Saving evaluation result to /home/syao/Desktop/trajGRU/bams/experiments/train_model_25/iter_2000
+INFO:root:Saving readable txt of Evaluation to /home/syao/Desktop/trajGRU/bams/experiments/train_model_25/iter_2000/eval_all.txt
+INFO:root:load data:0.3513336181640625	valid:1.7630927562713623
+INFO:root:Saving evaluation result to /home/syao/Desktop/trajGRU/bams/experiments/train_model_25/iter_4000
+INFO:root:Saving readable txt of Evaluation to /home/syao/Desktop/trajGRU/bams/experiments/train_model_25/iter_4000/eval_all.txt
+INFO:root:load data:0.3332650661468506	valid:1.8223488330841064
+INFO:root:Saving evaluation result to /home/syao/Desktop/trajGRU/bams/experiments/train_model_25/iter_6000
+INFO:root:Saving readable txt of Evaluation to /home/syao/Desktop/trajGRU/bams/experiments/train_model_25/iter_6000/eval_all.txt
+INFO:root:load data:0.37086915969848633	valid:1.765157699584961
+INFO:root:Saving evaluation result to /home/syao/Desktop/trajGRU/bams/experiments/train_model_25/iter_8000
+INFO:root:Saving readable txt of Evaluation to /home/syao/Desktop/trajGRU/bams/experiments/train_model_25/iter_8000/eval_all.txt
+INFO:root:load data:0.3677539825439453	valid:1.8632526397705078
+INFO:root:Saving evaluation result to /home/syao/Desktop/trajGRU/bams/experiments/train_model_25/iter_10000
+INFO:root:Saving readable txt of Evaluation to /home/syao/Desktop/trajGRU/bams/experiments/train_model_25/iter_10000/eval_all.txt
+INFO:root:load data:0.35875797271728516	valid:1.818786859512329
+INFO:root:Saving evaluation result to /home/syao/Desktop/trajGRU/bams/experiments/train_model_25/iter_12000
+INFO:root:Saving readable txt of Evaluation to /home/syao/Desktop/trajGRU/bams/experiments/train_model_25/iter_12000/eval_all.txt
+INFO:root:load data:0.39295029640197754	valid:1.8360137939453125

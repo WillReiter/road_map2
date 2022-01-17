@@ -1,0 +1,33 @@
+INFO:root:test trajgru begin...
+INFO:root:2021-01-05 19:21:56: test1
+INFO:root:2021-01-05 19:25:43: test2
+INFO:root:2021-01-05 19:29:30: test3
+INFO:root:2021-01-05 19:33:13: test4
+INFO:root:2021-01-05 19:36:55: test5
+INFO:root:2021-01-05 19:40:38: test6
+INFO:root:2021-01-05 19:44:18: test7
+INFO:root:2021-01-05 19:47:59: test8
+INFO:root:2021-01-05 19:51:41: test9
+INFO:root:2021-01-05 19:55:22: test10
+INFO:root:2021-01-05 19:59:03: test11
+INFO:root:2021-01-05 20:02:44: test12
+INFO:root:2021-01-05 20:06:25: test13
+INFO:root:2021-01-05 20:10:06: test14
+INFO:root:2021-01-05 20:13:47: test15
+INFO:root:2021-01-05 20:17:29: test16
+INFO:root:2021-01-05 20:21:10: test17
+INFO:root:2021-01-05 20:24:52: test18
+INFO:root:2021-01-05 20:28:33: test19
+INFO:root:2021-01-05 20:32:14: test20
+INFO:root:2021-01-05 20:35:54: test21
+INFO:root:2021-01-05 20:39:34: test22
+INFO:root:2021-01-05 20:43:16: test23
+INFO:root:2021-01-05 20:46:58: test24
+INFO:root:2021-01-05 20:50:39: test25
+INFO:root:2021-01-05 20:54:20: test26
+INFO:root:2021-01-05 20:58:01: test27
+INFO:root:2021-01-05 21:01:41: test28
+INFO:root:2021-01-05 21:05:21: test29
+INFO:root:2021-01-05 21:09:00: test30
+INFO:root:Saving evaluation result to /home/syao/Desktop/trajGRU/bams/experiments/test/iter_9800
+INFO:root:Saving readable txt of Evaluation to /home/syao/Desktop/trajGRU/bams/experiments/test/iter_9800/eval_all.txt

@@ -1,0 +1,5 @@
+usage: train_trajgru.py [-h] --save_dir SAVE_DIR --max_iterations
+                        MAX_ITERATIONS --valid_and_save_checkpoint_iterations
+                        VALID_AND_SAVE_CHECKPOINT_ITERATIONS --batch_size
+                        BATCH_SIZE --LR LR
+train_trajgru.py: error: argument --save_dir: expected one argument

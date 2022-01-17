@@ -1,0 +1,4 @@
+INFO:root:test trajgru begin...
+INFO:root:2021-09-18 19:05:38: test1
+INFO:root:Saving evaluation result to /home/syao/Desktop/trajGRU/bams/experiments/test_35_hou_straitfrom/iter_45000
+INFO:root:Saving readable txt of Evaluation to /home/syao/Desktop/trajGRU/bams/experiments/test_35_hou_straitfrom/iter_45000/eval_all.txt

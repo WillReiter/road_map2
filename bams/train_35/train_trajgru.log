@@ -1,0 +1,33 @@
+dateset already exists!
+datetime_list number:  2640
+train loss will be saved in train_trajgru35.log
+start!
+datatime_batch: [1547, 1239, 2226, 2535]
+load data!
+load saved model
+Traceback (most recent call last):
+  File "./code/train_trajgru.py", line 212, in <module>
+    train(args)
+  File "./code/train_trajgru.py", line 151, in train
+    output = net(train_data)
+  File "/home/will/Documents/road_map2/venv/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1102, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/home/will/Documents/road_map2/bams/models/model.py", line 32, in forward
+    state = self.encoder(input)
+  File "/home/will/Documents/road_map2/venv/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1102, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/home/will/Documents/road_map2/bams/models/encoder.py", line 36, in forward
+    input, state_stage = self.forward_by_stage(input, getattr(self, 'stage'+str(i)), getattr(self, 'rnn'+str(i)))
+  File "/home/will/Documents/road_map2/bams/models/encoder.py", line 22, in forward_by_stage
+    input = subnet(input)
+  File "/home/will/Documents/road_map2/venv/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1102, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/home/will/Documents/road_map2/venv/lib/python3.8/site-packages/torch/nn/modules/container.py", line 141, in forward
+    input = module(input)
+  File "/home/will/Documents/road_map2/venv/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1102, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/home/will/Documents/road_map2/venv/lib/python3.8/site-packages/torch/nn/modules/conv.py", line 446, in forward
+    return self._conv_forward(input, self.weight, self.bias)
+  File "/home/will/Documents/road_map2/venv/lib/python3.8/site-packages/torch/nn/modules/conv.py", line 442, in _conv_forward
+    return F.conv2d(input, weight, bias, self.stride,
+RuntimeError: Unable to find a valid cuDNN algorithm to run convolution
