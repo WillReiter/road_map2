@@ -1,8 +1,11 @@
 import numpy as np
 from numba import jit, float32, boolean, int32, float64
-from nowcasting.config import cfg
-from nowcasting.hmw_evaluation import dbz_to_pixel
-
+import sys
+sys.path.append('/road_map2/bams/nowcasting')
+#from nowcasting.config import cfg
+#from nowcasting.hmw_evaluation import dbz_to_pixel
+from config import cfg
+from hmw_evaluation import dbz_to_pixel
 
 @jit(float32(float32, float32, boolean))
 def get_GDL_numba(prediction, truth, mask):

@@ -1,11 +1,16 @@
 import numpy as np
 from torch import nn
 from collections import OrderedDict
-from nowcasting.config import cfg
+#from nowcasting.config import cfg
+import sys
+sys.path.append('../nowcasting')
+from config import cfg
 #import cv2
 import os.path as osp
 import os
-from nowcasting.hko.mask import read_mask_file
+#from nowcasting.hko.mask import read_mask_files
+#sys.path.append('../nowcasting/hko')
+#from mask import read_mask_files
 
 def make_layers(block):
     layers = []

@@ -11,7 +11,7 @@ import sys
 import time
 import warnings
 warnings.filterwarnings('ignore')
-sys.path.append('/home/will/Documents/road_map2/bams')
+sys.path.append('./road_map2/bams')
 os.environ["CUDA_VISIBLE_DEVICES"] = '0'
 # 0: 1080ti  1: 1070
 import datetime
@@ -24,17 +24,34 @@ import random
 import numpy as np
 from natsort import natsorted
 
-from nowcasting.config import cfg
-from ium_data.bj_iterator import BJIterator
-from models.encoder import Encoder
-from models.forecaster import Forecaster
-from models.model import EF
+#from nowcasting.config import cfg
+#from nowcasting.hmw_benchmark import HMWBenchmarkEnv
+sys.path.append('./road_map2/bams/nowcasting')
+from config import cfg
+from hmw_benchmark import HMWBenchmarkEnv
+
+#from ium_data.bj_iterator import BJIterator
+#from ium_data.plot_loss import plot_loss
+sys.path.append('./road_map2/bams/ium_data')
+from bj_iterator import BJIterator
+from plot_loss import plot_loss
+
+#from models.encoder import Encoder
+#from models.forecaster import Forecaster
+#from models.model import EF
 from torch.optim import lr_scheduler
-from models.loss import Weighted_mse_mae
-from models.trajGRU import TrajGRU
-from models.net_params import *
-from nowcasting.hmw_benchmark import HMWBenchmarkEnv
-from ium_data.plot_loss import plot_loss
+#from models.loss import Weighted_mse_mae
+#from models.trajGRU import TrajGRU
+#from models.net_params import *
+sys.path.append('./road_map2/bams/models')
+from encoder import Encoder
+from forecaster import Forecaster
+from model import EF
+from loss import Weighted_mse_mae
+from trajGRU import TrajGRU
+from net_params import *
+
+
 
 
 

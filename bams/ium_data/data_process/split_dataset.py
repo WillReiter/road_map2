@@ -4,10 +4,23 @@ from __future__ import print_function
 import numpy as np
 import os
 
-from ium_data.config import *
-from ium_data.data_process.get_date_list import read_datetime_list
-from ium_data.data_process.mask_date import read_valid_datetime
-from ium_data.data_process.mask_date import write_time_mask
+#from ium_data.config import *
+import sys
+
+sys.path.append('/road_map2/bams/ium_data')
+from config import *
+from ium_data.config import info_path, nc_data_path
+
+
+sys.path.append('/road_map2/bams/ium_data/data_process')
+#from ium_data.data_process.get_date_list import read_datetime_list
+from get_date_list import read_datetime_list
+
+#from ium_data.data_process.mask_date import read_valid_datetime
+#from ium_data.data_process.mask_date import write_time_mask
+from mask_date import read_valid_datetime
+from mask_date import write_time_mask
+
 
 """
 split datetime list into three part: train,valid,test

@@ -11,7 +11,7 @@ if [ ! -d ./${save_dir} ];then
 fi
 
 
-nohup python ./code/valid_and_test.py \
+nohup python ./road_map2/bams/code/valid_and_test.py \
        --load_iter ${iter} \
        --dataset   ${dataset} \
        --save_dir  ${save_dir} \

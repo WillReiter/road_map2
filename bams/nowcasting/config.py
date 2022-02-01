@@ -1,4 +1,8 @@
-from nowcasting.helpers.ordered_easydict import OrderedEasyDict as edict
+#from nowcasting.helpers.ordered_easydict import OrderedEasyDict as edict
+import sys
+sys.path.append('./road_map2/bams/nowcasting/helpers')
+from ordered_easydict import OrderedEasyDict as edict
+
 import torch
 import numpy as np
 import os
@@ -13,7 +17,8 @@ __C.GLOBAL.DEVICE = torch.device("cuda")
 assert __C.GLOBAL.DEVICE is not None
 
 __C.GLOBAL.BATCH_SIZE = 4
-__C.GLOBAL.MODEL_SAVE_DIR = '/home/will/Documents/road_map2/bams/experiments'
+__C.GLOBAL.MODEL_SAVE_DIR=''
+#__C.GLOBAL.MODEL_SAVE_DIR = './road_map2/bams/train_35'
 assert __C.GLOBAL.MODEL_SAVE_DIR is not None
 
 __C.ROOT_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
@@ -49,7 +54,10 @@ __C.HKO.ITERATOR.WIDTH = 600
 __C.HKO.ITERATOR.HEIGHT = 600
 
 __C.MODEL = edict()
-from nowcasting.models.model import activation
+#from nowcasting.models.model import activation
+sys.path.append('./road_map2/bams/nowcasting/models')
+from model import activation
+
 __C.MODEL.RNN_ACT_TYPE = activation('leaky', negative_slope=0.2, inplace=True)
 __C.MODEL.IN_LEN = 5              # Size of the input
 __C.MODEL.OUT_LEN = 30             # Size of the output

@@ -2,10 +2,18 @@ import numpy as np
 import logging
 import os
 from collections import namedtuple
-from nowcasting.config import cfg
+
+import sys
+sys.path.append('/road_map2/bams/nowcasting')
+#from nowcasting.config import cfg
+from config import cfg
+
 #from hko_data.hko_iterator import get_exclude_mask
 #from nowcasting.helpers.msssim import _SSIMForMultiScale
-from nowcasting.helpers.msssim import _SSIMForMultiScale
+sys.path.append('/road_map2/bams/nowcasting/helpers')
+#from nowcasting.helpers.msssim import _SSIMForMultiScale
+from msssim import _SSIMForMultiScale
+
 from sklearn.metrics import roc_curve, auc
 import matplotlib.pyplot as plt
 from sklearn.metrics import confusion_matrix
@@ -236,8 +244,11 @@ def get_balancing_weights(data, mask, base_balancing_weights=None, thresholds=No
 
 
 try:
-    from nowcasting.numba_accelerated import get_GDL_numba, get_hit_miss_counts_numba,\
-        get_balancing_weights_numba
+    #from nowcasting.numba_accelerated import get_GDL_numba, get_hit_miss_counts_numba,\
+    #    get_balancing_weights_numba
+    sys.path.append('/road_map2/bams/nowcasting')
+    from numba_accelerated import *
+    #from numba_accelerated import get_GDL_numba, get_hit_miss_counts_numba, get_balancing_weights_numba
 except:
     # get_GDL_numba = get_GDL
     # get_hit_miss_counts_numba = get_hit_miss_counts

@@ -5,13 +5,26 @@ import numpy as np
 import os
 import time
 import sys
-sys.path.append('/home/syao/Desktop/trajGRU/bams')
-from ium_data.config import *
+
+sys.path.append('./road_map2/bams/ium_data')
+#from ium_data.config import *
 #from ium_data.draw_frames import draw_all_frames, draw_frame
-from ium_data.read_frames import quick_read_frames
-from ium_data.data_process.get_date_list import read_datetime_list
-from ium_data.data_process.split_dataset import read_datetime_set
-from ium_data.data_process.split_dataset import generate_datetime_set
+#from ium_data.read_frames import quick_read_frames
+from ium_data.config import *
+
+#COMMENTED THIS OUT, DRAW_ALL_FRAMES AND DRAW_FRAME IS NOT IN FRAW_FRAMES
+#from draw_frames import draw_all_frames, draw_frame
+
+
+from read_frames import quick_read_frames
+
+sys.path.append('./road_map2/bams/ium_data/data_process')
+#from ium_data.data_process.get_date_list import read_datetime_list
+#from ium_data.data_process.split_dataset import read_datetime_set
+#from ium_data.data_process.split_dataset import generate_datetime_set
+from get_date_list import read_datetime_list
+from split_dataset import read_datetime_set
+from split_dataset import generate_datetime_set
 
 class BJIterator(object):
     """

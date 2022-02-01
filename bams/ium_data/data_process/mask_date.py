@@ -7,8 +7,14 @@ import time
 import numpy as np
 from datetime import datetime, timedelta
 
-from ium_data.config import *
-from ium_data.data_process.get_date_list import read_datetime_list
+#from ium_data.config import *
+import sys
+sys.path.append('road_map2/bams/ium_data/')
+from config import *
+
+#from ium_data.data_process.get_date_list import read_datetime_list
+sys.path.append('road_map2/bams/ium_data/data_process')
+from get_date_list import read_datetime_list
 
 """
 ## read this at first ##

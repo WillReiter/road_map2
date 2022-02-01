@@ -3,8 +3,10 @@ from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
 import os
-from ium_data.config import *
-
+#from ium_data.config import *
+import sys
+sys.path.append('road_map2/bams/ium_data/')
+from config import *
 '''
 Output the datetime list of BJ-RADAR-DATA
 

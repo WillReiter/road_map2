@@ -1,6 +1,9 @@
 from torch import nn
 import torch
-from nowcasting.utils import make_layers
+#from nowcasting.utils import make_layers
+import sys
+sys.path.append('../nowcasting')
+from utils import make_layers
 from nowcasting.config import cfg
 import logging
 

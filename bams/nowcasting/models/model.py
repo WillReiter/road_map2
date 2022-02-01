@@ -1,7 +1,10 @@
 from torch import nn
 import torch.nn.functional as F
 import torch
-from nowcasting.utils import make_layers
+#from nowcasting.utils import make_layers
+import sys
+sys.path.append('../nowcasting')
+from utils import make_layers
 
 class activation():
 

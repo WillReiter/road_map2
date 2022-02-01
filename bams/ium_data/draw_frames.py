@@ -10,10 +10,18 @@ from netCDF4 import Dataset
 import matplotlib.pyplot as plt
 import netCDF4 as nc
 import matplotlib.colors as colors
-os.environ['PROJ_LIB'] = r'/home/syao/anaconda3/envs/trajGRU/share/proj'
+
+#THIS WAS IN, NOT SURE IF IT SHOULD INCLUDED
+#os.environ['PROJ_LIB'] = r'/home/syao/anaconda3/envs/trajGRU/share/proj'
+
+import sys
 from mpl_toolkits.basemap import Basemap
+#from basemap import Basemap
 from matplotlib.patches import Polygon
-from nowcasting.hmw_evaluation import pixel_to_dbz
+
+sys.path.append('/road_map2/bams/nowcasting')
+#from nowcasting.hmw_evaluation import pixel_to_dbz
+from hmw_evaluation import pixel_to_dbz
 from matplotlib.colors import LinearSegmentedColormap
 
 
@@ -69,7 +77,9 @@ if __name__ == "__main__":
 
         #frame_data = nc.Dataset("/media/4T/nc_700_500_2km_10min/20170508/000000.nc")['tbb_13'][:]
         #frame_data = frame_data - 273.15
-        frame_data = nc.Dataset("/home/syao/Desktop/trajGRU/straitform_test/20190214/000035.nc")['DBZ'][:]
+        
+        #frame_data = nc.Dataset("/home/syao/Desktop/trajGRU/straitform_test/20190214/000035.nc")['DBZ'][:]
+        frame_data = nc.Dataset("/content/gdrive/MyDrive/SD_Project/raw_data/nc_selected/20170401/000035.nc")['DBZ'][:]
         frame_data = np.array(frame_data).squeeze()
         save_path = './'
         save_frame(frame_data[:,:], os.path.join(save_path, "101132.jpg"), normalization=True)
